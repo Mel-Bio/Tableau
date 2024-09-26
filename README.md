@@ -9,6 +9,6 @@ Evidencia de aprendizaje durante el módulo de Tableau
 ##
 
 ##
-[Historia Tableau (https://public.tableau.com/app/profile/melani.paulina.vasquez.lopez/viz/CasoprcticomduloTableau/Historia1)]
+[Historia Tableau] (https://public.tableau.com/app/profile/melani.paulina.vasquez.lopez/viz/CasoprcticomduloTableau/Historia1)
 
 
